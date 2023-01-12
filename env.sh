@@ -17,7 +17,7 @@ export PATH=$PATH:/usr/local/go/bin
 ## rust
 source "$HOME/.cargo/env"
 
-## tools
+## tools WSL as root
 alias binwalk="binwalk --run-as=root"
 
 ## rust
